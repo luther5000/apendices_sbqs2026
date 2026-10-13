@@ -2,7 +2,7 @@
 
 Este repositório contém o material complementar e a documentação do projeto apresentados no artigo científico:
 
-> **Technical Debt in Software Documentation and Its Impact on Test Coverage**  
+> **Technical Debt in Software Documentation Requirements and Its Impact on Test Coverage**  
 > *Lutero Lima Goulart, Yuska Paola Costa Aguiar, Michel Diniz Medeiros, Marcelo Iury de Sousa Oliveira* 
 > Publicado em / Submetido ao: *Simpósio Brasileiro de Qualidade de Software 2026*
 
